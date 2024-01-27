@@ -9,7 +9,7 @@
 }
 
 :root {
-    --body-font-family:  'Lato', sans-serif;
+    --body-font-family: 'Lato', sans-serif;
 }
 
 body {
@@ -142,8 +142,8 @@ nav {
     gap: 70px;
 }
 
-.ona{
-   margin-top: 80px;
+.ona {
+    margin-top: 80px;
 }
 
 .form {
@@ -151,9 +151,8 @@ nav {
     font-weight: 700;
 }
 
-.alt{
+.alt {
     margin-top: 110px;
-    
 }
 
 .end {
@@ -164,8 +163,8 @@ nav {
 .home {
     color: #ED4C5C;
     cursor: pointer;
-}   
+}
 
-.box{
+.box {
     padding-right: 100px;
 }
