@@ -139,6 +139,7 @@ nav {
     justify-content: space-around;
     align-items: center;
     margin-bottom: 100px;
+    gap: 70px;
 }
 
 .ona{
@@ -152,6 +153,7 @@ nav {
 
 .alt{
     margin-top: 110px;
+    
 }
 
 .end {
