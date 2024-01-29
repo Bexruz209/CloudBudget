@@ -136,14 +136,14 @@ nav {
 
 .uka {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     margin-bottom: 100px;
-    gap: 70px;
 }
 
 .ona {
     margin-top: 80px;
+
 }
 
 .form {
