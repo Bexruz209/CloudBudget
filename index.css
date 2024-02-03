@@ -239,6 +239,8 @@ nav {
 .text {
     padding-top: 20px;
     padding-bottom: 19px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .immer__button {
@@ -246,4 +248,174 @@ nav {
     color: #ed4c5c;
     background: #FFF;
     cursor: pointer;
+}
+
+.notebook {
+    display: flex;
+    justify-content: space-between;
+}
+
+.notebook__opsh {
+    margin-top: 200px;
+}
+
+.notebook__big__text {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.notebook__play {
+    width: 255px;
+    height: 226px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.notebook__img {
+    position: absolute;
+    transform: translateY(-53%);
+    left: 88px;
+}
+
+.notebook__img__1 {
+    position: absolute;
+    transform: translateY(-53%);
+    left: 91px;
+}
+
+.notebook__img__2 {
+    position: absolute;
+    transform: translateY(-53%);
+    left: 91px;
+}
+
+.notebook__img__3 {
+    position: absolute;
+    transform: translateY(-53%);
+    left: 101px;
+}
+
+
+.notebook__text {
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+
+.logo {
+    background: #ED4C5C;
+    color: #FFF;
+}
+
+.game {
+    padding-top: 90px;
+    display: flex;
+    gap: 100px;
+}
+
+.game__text {
+    width: 500px;
+    height: 195px;
+}
+
+.game__text__text {
+    padding-top: 50px;
+}
+
+.game__logo {
+    margin-top: 50px;
+}
+
+.game__logo__smoll {
+    display: flex;
+    gap: 20px;
+    padding-bottom: 70px;
+}
+
+.game__big__img__big {
+    position: relative;
+}
+
+.game__big__img__smoll {
+    position: absolute;
+    transform: translateX(30%);
+    top: 0px;
+}
+
+.game__big__img__smoll__img {
+    position: relative;
+}
+
+.game__big__img__smoll__play {
+    position: absolute;
+    margin: auto;
+    top: 2185px;
+    transform: translateX(5.5%);
+    width: 450px;
+    height: 311px;
+}
+
+.game__img__smoll__img {
+    width: 100%;
+    height: 100%;
+}
+
+.emmet__gap {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.emmet__text {
+    padding-bottom: 50px;
+}
+
+.emmer__play {
+    width: 250px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+.emmer__buutton__play {
+    width: 500px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+.emmer__buutton {
+    width: 160px;
+    height: 40px;
+    border-radius: 6px;
+    background: #ED4C5C;
+    color: #FFF;
+    border: none;
+}
+
+.cloudy {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.cloudy__text {
+    padding-bottom: 50px;
+}
+
+.cloudy__text__smoll {
+    padding-bottom: 130px;
+}
+
+.cloudy__text__text {
+    color: #9EABA2;
+}
+
+.cloudy__text__text__t {
+    padding-top: 40px;
+}
+
+.cloudy__text__smoll__play {
+    padding-bottom: 30px;
 }
