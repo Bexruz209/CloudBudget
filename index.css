@@ -33,7 +33,6 @@ body {
 nav {
     padding-top: 30px;
     padding-bottom: 100px;
-    padding-right: 50px;
 }
 
 .navbar-menu {
@@ -138,6 +137,7 @@ nav {
 
 .section__wrapper {
     padding-top: 94px;
+    margin-bottom: 100px;
 }
 
 .section__flex__elems {
@@ -192,4 +192,56 @@ nav {
     top: 50%;
     transform: translateY(-50%);
     left: -30px;
+}
+
+.immer__text{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.immer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.immer__container{
+    position: relative;
+}
+
+.immer_img{
+    width: 350px;
+    height: 250px;
+}
+.img{
+    width: 100%;
+    height: 100%;
+    border-radius:8px;
+}
+
+
+.immer__text__start{
+    position: absolute;
+    transform: translateY(-47%);
+    box-shadow: 1px 1px 10px black;
+    line-height: 20px;
+    padding-top: 40px;
+    left: 27px;
+    background: #FFF;
+    width: 293px;
+    height: 198px;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.text{
+    padding-top: 20px;
+    padding-bottom: 19px;
+}
+.immer__button{
+    border: none;
+    color: #ed4c5c;
+    background: #FFF;
+    cursor: pointer;
 }
